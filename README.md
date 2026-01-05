@@ -26,8 +26,6 @@
 ---
 
 ## 🎓 Certifications & Credentials
-
-### Table (add new rows anytime)
 | Icon | Credential | Issuer | Issued | Verify |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="assets/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | 2024-11 | [Link](https://www.credly.com/badges/49ac399b-8784-4b6a-9c9c-53447c2169c3/public_url)
@@ -38,9 +36,8 @@
 ---
 
 ## 🧪 Labs (with screenshots / evidence)
-<!-- ✅ Each lab follows the same format: **Goal • Environment • Steps • Evidence • Findings • Mitigations • What I learned**
 
-- `labs/01-homelab-pfsense-segmentation` — Network segmentation + rules + diagram
+<!-- - `labs/01-homelab-pfsense-segmentation` — Network segmentation + rules + diagram
 - `labs/02-wireshark-arp-spoofing` — Detect ARP spoofing indicators in a capture
 - `labs/03-siem-alerting` — Centralized logging + alert rules + sample incidents
 - `labs/04-aws-iam-least-privilege` — IAM hardening + CloudTrail evidence -->
