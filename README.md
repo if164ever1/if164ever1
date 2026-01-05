@@ -47,7 +47,7 @@
 | Icon | Credential | Issuer | Issued | Verify |
 |---:|---|---|---:|:---:|
 | <img src="assets/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | 2024-11 | [Link](https://www.credly.com/badges/49ac399b-8784-4b6a-9c9c-53447c2169c3/public_url)
-| <img src="assets/certs/aws-ccp.png" width="42" /> | AWS Certified Cloud Practitioner | AWS | YYYY-MM | `PASTE_VERIFY_LINK` |
+| <img src="assets/aws practicioner.png" width="42" /> | AWS Certified Cloud Practitioner | AWS | 202512-MM | [Link](https://www.credly.com/badges/c9ad1bbc-0b87-4d38-9706-aaf4bfc4c6df/public_url) |
 | <img src="assets/certs/securityplus.png" width="42" /> | CompTIA Security+ | CompTIA | YYYY-MM | `PASTE_VERIFY_LINK` |
 
 > Tip: keep images small (e.g., 256×256 PNG). GitHub renders them fast and clean.
