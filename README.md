@@ -38,12 +38,12 @@
 ---
 
 ## 🧪 Labs (with screenshots / evidence)
-✅ Each lab follows the same format: **Goal • Environment • Steps • Evidence • Findings • Mitigations • What I learned**
+<!-- ✅ Each lab follows the same format: **Goal • Environment • Steps • Evidence • Findings • Mitigations • What I learned**
 
 - `labs/01-homelab-pfsense-segmentation` — Network segmentation + rules + diagram
 - `labs/02-wireshark-arp-spoofing` — Detect ARP spoofing indicators in a capture
 - `labs/03-siem-alerting` — Centralized logging + alert rules + sample incidents
-- `labs/04-aws-iam-least-privilege` — IAM hardening + CloudTrail evidence
+- `labs/04-aws-iam-least-privilege` — IAM hardening + CloudTrail evidence -->
 
 ---
 
