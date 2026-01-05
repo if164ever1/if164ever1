@@ -1,4 +1,4 @@
-<img src="https://github.com/if164ever1/cybersecurity-portfolio/blob/main/assets/banner.png" width="100%" alt="Cybersecurity banner"/>
+<img src="https://github.com/if164ever1/cybersecurity-portfolio/blob/main/assets/banner.png" height="430" width="1024" alt="Cybersecurity banner"/>
 
 <h1 align="center">Hi, I'm Ihor 👋</h1>
 <p align="center">
