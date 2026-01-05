@@ -46,7 +46,7 @@
 ### Table (add new rows anytime)
 | Icon | Credential | Issuer | Issued | Verify |
 |---:|---|---|---:|---|
-| <img src="assets/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | YYYY-MM | **Public link:** `PASTE_WES_PUBLIC_LINK_HERE` |
+| <img src="assets/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | 2024-11 | **Public link:** `https://www.credly.com/badges/49ac399b-8784-4b6a-9c9c-53447c2169c3/public_url` |
 | <img src="assets/certs/aws-ccp.png" width="42" /> | AWS Certified Cloud Practitioner | AWS | YYYY-MM | `PASTE_VERIFY_LINK` |
 | <img src="assets/certs/securityplus.png" width="42" /> | CompTIA Security+ | CompTIA | YYYY-MM | `PASTE_VERIFY_LINK` |
 
