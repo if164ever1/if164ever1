@@ -1,7 +1,5 @@
 <img src="https://github.com/if164ever1/cybersecurity-portfolio/blob/main/assets/banner.png" height="330" width="1024" alt="Cybersecurity banner"/>
 
-<img src="assets/banner.png" width="100%" alt="Cybersecurity banner" />
-
 <h1 align="center">Hi, I'm Ihor 👋</h1>
 
 <p align="center">
@@ -48,7 +46,7 @@
 ### Table (add new rows anytime)
 | Icon | Credential | Issuer | Issued | Verify |
 |---:|---|---|---:|---|
-| <img src="assets/certs/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | YYYY-MM | **Public link:** `PASTE_WES_PUBLIC_LINK_HERE` |
+| <img src="assets/wes.png" width="42" /> | Verified International Academic Qualifications *(Diploma/Credential Verification)* | World Education Services (WES) | YYYY-MM | **Public link:** `PASTE_WES_PUBLIC_LINK_HERE` |
 | <img src="assets/certs/aws-ccp.png" width="42" /> | AWS Certified Cloud Practitioner | AWS | YYYY-MM | `PASTE_VERIFY_LINK` |
 | <img src="assets/certs/securityplus.png" width="42" /> | CompTIA Security+ | CompTIA | YYYY-MM | `PASTE_VERIFY_LINK` |
 
