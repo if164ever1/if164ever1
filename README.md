@@ -23,25 +23,9 @@
 - **Detection & Logging:** SIEM fundamentals, alert triage, Sigma/Suricata-style detections
 - **Cloud Security:** AWS IAM least privilege, logging/monitoring, secure deployments
 
-## ⭐ Start here (Portfolio Hub)
-- 🔥 **Cybersecurity Portfolio:** `cybersecurity-portfolio` *(hub repo with labs, evidence, and write-ups)*
-- 🧪 **Labs Index:** `cybersecurity-portfolio/labs`
-- 📝 **Write-ups:** `cybersecurity-portfolio/writeups`
-
-> **Next step for you:** create a repo named `cybersecurity-portfolio` and pin it on your profile.
-
 ---
 
 ## 🎓 Certifications & Credentials
-> ✅ Each credential row supports an **uploaded icon/badge** (stored in this repo) + a **verification link**.
-
-### How the icons work (1 time setup)
-1) Create folders in this repo:
-   - `assets/certs/`
-2) For each certificate, download the official badge/icon (Credly/WES/etc.) and upload it as:
-   - `assets/certs/<short-name>.png`
-3) Reference it in the table with:
-   - `<img src="assets/certs/<short-name>.png" width="42" />`
 
 ### Table (add new rows anytime)
 | Icon | Credential | Issuer | Issued | Verify |
@@ -50,7 +34,6 @@
 | <img src="assets/aws practicioner.png" width="42" /> | AWS Certified Cloud Practitioner | AWS | 2025-12 | [Link](https://www.credly.com/badges/c9ad1bbc-0b87-4d38-9706-aaf4bfc4c6df/public_url) |
 | <img src="assets/cisco.png" width="42" /> | Introduction to Cybersecurity | CISCO | 2025-12 | [Link](https://www.credly.com/badges/79f07e96-5bdc-4a5b-8b64-17868923aba7/public_url) |
 
-> Tip: keep images small (e.g., 256×256 PNG). GitHub renders them fast and clean.
 
 ---
 
@@ -83,10 +66,3 @@
 - **B.S. Fire Safety** — Lviv State University of Fire Safety (Ukraine)
 
 ---
-
-## 🧩 How I keep this portfolio updated (so it scales)
-When I learn something new, I add one of these:
-- **New skill:** add a bullet under *Skills* + link to a lab/proof
-- **New certificate:** add a row in the *Certifications & Credentials* table (**icon + verify link**)
-- **New lab:** create a new folder under `labs/XX-name/` + add screenshots in `evidence/`
-
