@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ihor-zadorozhniak-ba2773194/">LinkedIn</a> •
-  <a href="https://github.com/if164ever1">GitHub</a>
+  <a href="https://github.com/if164ever1">GitHub</a> •
+  <a href="https://www.kaggle.com/ihorzadorozhniak">Kaggle</a>
 </p>
 
 ---
