@@ -40,6 +40,8 @@
 
 🔗 **[Cybersecurity Portfolio](https://github.com/if164ever1/cybersecurity-portfolio)** — Hands-on labs with evidence, project documentation, and security research reviews. Includes pfSense network segmentation, Sentinel logs analysis, and cloud security implementations.
 
+🔗 **[Data Science Portfolio](https://github.com/if164ever1/Data-Science-Portfolio)** — Machine learning projects, data analysis, and analytics implementations.
+
 <!-- - `labs/01-homelab-pfsense-segmentation` — Network segmentation + rules + diagram
 - `labs/02-wireshark-arp-spoofing` — Detect ARP spoofing indicators in a capture
 - `labs/03-siem-alerting` — Centralized logging + alert rules + sample incidents
